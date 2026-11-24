@@ -1,0 +1,32 @@
+# ICAR Advisory: Wheat Irrigation Critical Stages and Groundnut Nutrient Management
+# Indian Agricultural Research Institute (IARI) & Directorate of Groundnut Research (ICAR-DGR)
+
+## 1. Wheat (गहू / गेहूं) Cultivation & Irrigation Scheduling
+Wheat is the premier Rabi cereal crop. Optimal sowing date for Central and Western zones is November 1 to November 15.
+Late sowing beyond November 25 causes significant yield reduction due to terminal heat stress during grain filling.
+
+Critical Irrigation Stages (Ranked by Water Sensitivity):
+1. Crown Root Initiation (CRI Stage - 20 to 25 days after sowing): THE MOST CRITICAL STAGE. Missing irrigation here reduces tillering by up to 30%.
+2. Tillering Stage (40 to 45 DAS).
+3. Late Jointing Stage (60 to 65 DAS).
+4. Flowering Stage (80 to 85 DAS).
+5. Milk Stage (100 to 105 DAS).
+6. Dough Stage (115 to 120 DAS).
+
+Rust Disease Management:
+- For Yellow Rust (Puccinia striiformis) and Brown Rust: Spray Propiconazole 25% EC (Tilt) @ 1 ml/liter of water (500 ml in 500 L water/ha) immediately on seeing pustules.
+
+## 2. Groundnut (मूंगफली / भुईमूग) Soil & Calcium Requirements
+Groundnut requires light-textured, well-drained sandy loam, red sandy, or light alluvial soils with pH 6.0 to 7.0.
+Heavy black clay soils cause pod rotting and make harvesting extremely difficult.
+
+Key Nutrient Requirement - Gypsum Application:
+- Groundnut pods absorb calcium directly from surrounding soil rather than through roots.
+- Calcium deficiency leads to "Pops" (empty shells without kernels).
+- Apply Gypsum @ 400 to 500 kg/ha at 40 to 45 days after sowing (flowering to early pegging stage).
+- Broadcast gypsum around the plant base and incorporate lightly into the soil followed by irrigation.
+
+## 3. Onion (कांदा / प्याज) Purple Blotch Disease Control
+Purple Blotch (जांभळा करपा) caused by Alternaria porri:
+- Symptoms: Small, sunken, whitish lesions with purple centers on foliage and seed stalks.
+- Chemical Control: Foliar spray of Mancozeb 75% WP @ 2.5 grams/liter of water or Difenoconazole 25% EC @ 1 ml/liter of water mixed with sticker (spreader) @ 0.5 ml/L.

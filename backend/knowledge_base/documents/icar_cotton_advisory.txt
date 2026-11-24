@@ -1,0 +1,32 @@
+# ICAR-CICR Cotton Advisory: Pink Bollworm and Sucking Pest Management
+# Indian Council of Agricultural Research (ICAR) - Central Institute for Cotton Research
+
+## 1. Sowing Window and Soil Requirements
+Cotton (कापूस / कपास) thrives best in deep black soils (Regur soil) with good drainage and a pH range of 6.5 to 8.0.
+Sowing should be carried out upon the onset of monsoon rains once the soil receives at least 75 to 100 mm of cumulative rainfall.
+Optimal sowing time across Maharashtra, Gujarat, and Central India is between June 15 and July 15.
+Avoid late sowing beyond July 20 as it increases vulnerability to bollworm attacks during the reproductive phase.
+
+## 2. Pink Bollworm (Pectinophora gossypiella) Symptoms & Life Cycle
+Pink bollworm is one of the most destructive pests affecting Bt and non-Bt cotton.
+Symptoms:
+1. Rosetted flowers ("गुलाबी बोंडअळीच्या प्रादुर्भावामुळे फुले कमळासारखी मिटलेली / चोथा झालेली दिसतात"): The larvae web the flower petals together.
+2. Premature boll opening and staining of lint.
+3. Internal shedding of young squares (पात्या) and small bolls.
+4. Dropped squares and yellowing of surrounding foliage.
+
+## 3. Economic Threshold Level (ETL)
+Monitoring must begin 45 days after sowing using pheromone traps.
+- Install 8 to 10 sleeve pheromone traps per acre with Gossyplure lures.
+- ETL: If 8 moths per trap per night are captured for 3 consecutive nights, or if 10% damaged green bolls with larvae are found, immediate control measures must be initiated.
+
+## 4. Integrated Pest Management (IPM) Recommendations
+Phase 1 (Preventive & Biological - 40 to 60 Days):
+- Erect yellow sticky traps (10/acre) for whiteflies and jassids.
+- Release Trichogramma bactrae egg parasitoids @ 60,000 eggs/acre at weekly intervals (3 releases).
+- Spray 5% Neem Seed Kernel Extract (NSKE) or Azadirachtin 1500 ppm @ 5 ml per liter of water.
+
+Phase 2 (Chemical Management at ETL - 60 to 90 Days):
+- First spray: Profenofos 50% EC @ 2 ml/liter of water or Chlorantraniliprole 18.5% SC @ 0.3 ml/liter of water.
+- In case of severe infestation of mature bolls: Emamectin Benzoate 5% SG @ 5 grams per 10 liters of water (0.5 g/L).
+- Always use protective gear and avoid spraying during high wind or mid-day heat.
